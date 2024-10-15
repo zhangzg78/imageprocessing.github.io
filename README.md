@@ -1,8 +1,8 @@
 <h1 align="center">
-AI-SJTU Courses Website
+Image Processing Course Website
 </h1>
 <p align="center">
-上海交通大学 AI 专业（本科）课程信息网站
+HITSZ Image Prcocessing Website
 </p>
 <p align="center">
   <a href='https://gitHub.com/aisjtu/aisjtu.github.io/graphs/contributors/'>
